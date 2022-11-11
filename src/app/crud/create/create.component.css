@@ -1,0 +1,22 @@
+.title{
+  margin-top: 1%;
+  padding-bottom: 5px;
+  text-align: center;
+  color: red;
+  font-weight: 700;
+}
+
+.create-container{
+  margin-top: 1%;
+  margin-inline: 5%;
+  padding-bottom: 16px;
+}
+
+.mat-form-field{
+  width: 100% !important;
+}
+
+.btn-create-container{
+  margin-top: 2%;
+  padding-bottom: 16px;
+}
